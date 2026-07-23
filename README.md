@@ -19,9 +19,9 @@ In this project we create a traffic light through arduino.
 ## Wiring
 
 - GND -> Green LED Anode, Red LED Anode, Yellow LED Anode
-- Arduino digital pin 2 -> Green LED Cathode
-- Arduino digital pin 4 -> Yellow LED Cathode
-- Arduino digital pin 6 -> Red LED Cathode
+- Arduino digital pin 2 -> 200Ω resistor -> Green LED Cathode
+- Arduino digital pin 4 -> 200Ω resistor -> Yellow LED Cathode
+- Arduino digital pin 6 -> 200Ω resistor -> Red LED Cathode
 
 ![Circuit](images/components.jpg)
 
