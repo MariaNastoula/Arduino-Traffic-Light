@@ -29,4 +29,6 @@ In this project we create a traffic light through arduino.
 
 - Basic circuit design
 
+## Author
 
+Nastoula Maria
