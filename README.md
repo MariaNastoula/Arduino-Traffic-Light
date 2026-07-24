@@ -3,16 +3,16 @@
 
 ## Description
 
-In this project we create a traffic light through arduino.
+This project is a simulation of a traffic light using an Arduino UNO
 
 ## Components
 
 - Arduino Uno
 - Breadboard
-- Jumper Wings
+- Jumper Wires
 - 3 * LED
 - USB Cable
-- 3 * 200Ω resistor
+- 3 x 200Ω resistor
 
 ![Components](images/components.jpg)
 
@@ -25,9 +25,15 @@ In this project we create a traffic light through arduino.
 
 ![Circuit](images/circuit.jpg)
 
+## Diagram
+
+![Diagram](images/diagram.jpg)
+
 ## Skills learned
 
 - Basic circuit design
+- LED control
+- Sequential programming
 
 ## Author
 
